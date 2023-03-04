@@ -49,8 +49,8 @@ The **second dimension** picks up **differences within the major political parti
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/political-polarization-in-us-congress?select=Political+Polarization+in+US+Congress+%28Assorted%29.csv) - The same data but on Kaggle.
 
-# Code Starter
-[Link to Notebook]()
+# Polarization Plots Notebook
+[Link to Notebook](https://www.kaggle.com/code/justin2028/political-polarization-us-congress-data-analysis/notebook)
 
 # Example Graph Possible With Data
 ###### Credit to Jeff Lewis, Professor of Political Science at UCLA
